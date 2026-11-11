@@ -35,27 +35,38 @@ If one farmer can’t fill the whole order, a few farmers can join together and 
 A digital contract is made with the quantity, quality, price and delivery date.
 The buyer pays a small advance (10 to 20%) into a safe escrow account. The rest is paid after delivery and quality check.
 3. Innovation and uniqueness of the solutio:
-Farmers deal directly with buyers, so agents and wholesalers are not needed.
-The price is fixed before harvest, so farmers are not forced to sell cheap.
-The advance payment gives farmers some security and money to start farming.
-Small farmers can reach big buyers by working as a group.
+ Farmers deal directly with buyers, so agents and wholesalers are not needed.
+
+ The price is fixed before harvest, so farmers are not forced to sell cheap.
+
+ The advance payment gives farmers some security and money to start farming.
+
+ Small farmers can reach big buyers by working as a group.
 ```
 ## Technical Approach
 ```
 1.Technologies we will use:
-Frontend: React (or Next.js) with Tailwind CSS
-Backend: Node.js with Express (or Django)
-Database: PostgreSQL
-Login: OTP verification and DigiLocker for identity
-Mandi price data: Agmarknet and eNAM open data
-Contracts: auto-generated PDF with eSign
-Payments: UPI and Razorpay escrow
-Alerts: SMS and email
-Hosting: AWS or Render
+  1.Frontend: React (or Next.js) with Tailwind CSS
+
+  2.Backend: Node.js with Express (or Django)
+
+  3.Database: PostgreSQL
+
+  4.Login: OTP verification and DigiLocker for identity
+
+  5.Mandi price data: Agmarknet and eNAM open data
+
+  6.Contracts: auto-generated PDF with eSign
+
+  7.Payments: UPI and Razorpay escrow
+
+  8.Alerts: SMS and email
+
+  9.Hosting: AWS or Render
 ```
 ```
 2. Methodology :
-Flow chart:
+  =>Flow chart:
   Buyer registers on the website
                       |
                       v
@@ -108,43 +119,55 @@ Flow chart:
 ## Feasibility and Viability
 ```
 1. Analysis of the feasibility of the idea:
-Technical feasibility: The portal needs only normal web technology (React, Node.js, PostgreSQL). Mandi price data from Agmarknet and eNAM is free and open. Login, eSign and payments can use ready-made services like DigiLocker, eSign and Razorpay, so we do not need to build them from scratch.
+   =>Technical feasibility: The portal needs only normal web technology (React, Node.js, PostgreSQL). Mandi price data from Agmarknet and eNAM is free and open. Login, eSign and payments can use ready-made services like DigiLocker, eSign and Razorpay, so we do not need to build them from scratch.
+
 2. Potential challenges and risks:
-Contract breaking: A farmer or buyer may not follow the contract.
-Low digital literacy: Many farmers may not know how to use a website.
-Crop failure: Weather, pests or disease may reduce the harvest.
-Quality disputes: Buyer and farmer may disagree on the quality at delivery.
-Slow buyer adoption: Buyers may not join in the beginning.
-Unfair prices: A buyer may offer a very low price.
-Lack of trust: Farmers may not trust a new online system.
-Poor internet: Network connectivity in villages can be weak.
+   => Contract breaking: A farmer or buyer may not follow the contract.
+   => Low digital literacy: Many farmers may not know how to use a website.
+   => Crop failure: Weather, pests or disease may reduce the harvest.
+   => Quality disputes: Buyer and farmer may disagree on the quality at delivery.
+   => Slow buyer adoption: Buyers may not join in the beginning.
+   => Unfair prices: A buyer may offer a very low price.
+   => Lack of trust: Farmers may not trust a new online system.
+   => Poor internet: Network connectivity in villages can be weak.
+
 3. Strategies for overcoming these challenges:
+
  Contract breaking: Keep the advance payment in escrow, give ratings to both sides, and write penalty rules in the contract.
-Low digital literacy: Provide simple pages in regional languages, and help from CSC and FPO operators.
-Crop failure: Allow partial delivery in the contract, and link crop insurance through PMFBY.
-Quality disputes: Use AGMARK grade standards in the contract, and a third-party inspector for disputes.
-Slow buyer adoption: Start with institutions that already buy in bulk, such as hostels, hospitals and mid-day meal schemes.
+
+ Low digital literacy: Provide simple pages in regional languages, and help from CSC and FPO operators.
+
+ Crop failure: Allow partial delivery in the contract, and link crop insurance through PMFBY.
+
+ Quality disputes: Use AGMARK grade standards in the contract, and a third-party inspector for disputes.
+
+ Slow buyer adoption: Start with institutions that already buy in bulk, such as hostels, hospitals and mid-day meal schemes.
+
 Unfair prices: Compare every offer with the mandi price and MSP, and ask the buyer to revise low offers.
 ```
 
 ## Impact and Benefits
 ```
 1. Potential impact on the target audience:
-  Farmers: They know their buyer and price before harvest, so there is less risk and better income.
-Buyers: Regular supply of the quality they need, at a lower cost than buying through many middlemen.
+   => Farmers: They know their buyer and price before harvest, so there is less risk and better income.
+   =>Buyers: Regular supply of the quality they need, at a lower cost than buying through many middlemen.
 FPOs and CSC centres: A new role in organising farmers and helping them use the platform.
-Consumers: Fewer sudden price jumps.
+   =>Consumers: Fewer sudden price jumps.
+
 2. Benefits of the solution (social, economic, environmental, etc.):
-Economic: Farmers earn more per crop, and buyers spend less on procurement.
-Social: Small farmers get access to big buyers and depend less on agents and moneylenders.
-Environmental: When farmers grow what is actually needed, less produce is wasted.
+  =>Economic: Farmers earn more per crop, and buyers spend less on procurement.
+  =>Social: Small farmers get access to big buyers and depend less on agents and moneylenders.
+  =>Environmental: When farmers grow what is actually needed, less produce is wasted.
 ```
 
 ## Research and References
 ```
 1. Details / Links of the reference and research work :
-Model Contract Farming Act, 2018 (NITI Aayog)
-Agmarknet and eNAM websites for mandi prices
-Ministry of Agriculture and Farmers Welfare: FPO scheme
-NABARD and NITI Aayog reports on agricultural marketing
+  -->Model Contract Farming Act, 2018 (NITI Aayog)
+
+  -->Agmarknet and eNAM websites for mandi prices
+
+  -->Ministry of Agriculture and Farmers Welfare: FPO scheme
+
+  -->NABARD and NITI Aayog reports on agricultural marketing
 ```
