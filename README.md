@@ -66,7 +66,7 @@ The buyer pays a small advance (10 to 20%) into a safe escrow account. The rest 
 ```
 ```
 2. Methodology :
-  =>Flow chart:
+  => Flow chart:
   Buyer registers on the website
                       |
                       v
@@ -119,7 +119,7 @@ The buyer pays a small advance (10 to 20%) into a safe escrow account. The rest 
 ## Feasibility and Viability
 ```
 1. Analysis of the feasibility of the idea:
-   =>Technical feasibility: The portal needs only normal web technology (React, Node.js, PostgreSQL). Mandi price data from Agmarknet and eNAM is free and open. Login, eSign and payments can use ready-made services like DigiLocker, eSign and Razorpay, so we do not need to build them from scratch.
+   =>   Technical feasibility: The portal needs only normal web technology (React, Node.js, PostgreSQL). Mandi price data from Agmarknet and eNAM is free and open. Login, eSign and payments can use ready-made services like DigiLocker, eSign and Razorpay, so we do not need to build them from scratch.
 
 2. Potential challenges and risks:
    => Contract breaking: A farmer or buyer may not follow the contract.
@@ -150,24 +150,24 @@ Unfair prices: Compare every offer with the mandi price and MSP, and ask the buy
 ```
 1. Potential impact on the target audience:
    => Farmers: They know their buyer and price before harvest, so there is less risk and better income.
-   =>Buyers: Regular supply of the quality they need, at a lower cost than buying through many middlemen.
+   => Buyers: Regular supply of the quality they need, at a lower cost than buying through many middlemen.
 FPOs and CSC centres: A new role in organising farmers and helping them use the platform.
-   =>Consumers: Fewer sudden price jumps.
+   => Consumers: Fewer sudden price jumps.
 
 2. Benefits of the solution (social, economic, environmental, etc.):
-  =>Economic: Farmers earn more per crop, and buyers spend less on procurement.
-  =>Social: Small farmers get access to big buyers and depend less on agents and moneylenders.
-  =>Environmental: When farmers grow what is actually needed, less produce is wasted.
+  => Economic: Farmers earn more per crop, and buyers spend less on procurement.
+  => Social: Small farmers get access to big buyers and depend less on agents and moneylenders.
+  => Environmental: When farmers grow what is actually needed, less produce is wasted.
 ```
 
 ## Research and References
 ```
 1. Details / Links of the reference and research work :
-  -->Model Contract Farming Act, 2018 (NITI Aayog)
+  --> Model Contract Farming Act, 2018 (NITI Aayog)
 
-  -->Agmarknet and eNAM websites for mandi prices
+  --> Agmarknet and eNAM websites for mandi prices
 
-  -->Ministry of Agriculture and Farmers Welfare: FPO scheme
+  --> Ministry of Agriculture and Farmers Welfare: FPO scheme
 
-  -->NABARD and NITI Aayog reports on agricultural marketing
+  --> NABARD and NITI Aayog reports on agricultural marketing
 ```
