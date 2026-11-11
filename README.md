@@ -26,6 +26,7 @@ Benefits:
 • Reduced supply chain inefficiencies.
 
 ## Proposed Solution
+```
 1.My solution: benefit for farmers is a website where buyers and farmers agree on a deal before the crop is even grown.
 2.how we address this:
 Big buyers like hostels, hospitals, canteens, hotels and food companies post what they need. For example: 50 quintal onions, grade A, needed in January, at this price.
@@ -38,7 +39,7 @@ Farmers deal directly with buyers, so agents and wholesalers are not needed.
 The price is fixed before harvest, so farmers are not forced to sell cheap.
 The advance payment gives farmers some security and money to start farming.
 Small farmers can reach big buyers by working as a group.
-
+```
 ## Technical Approach
 1.Technologies we will use:
 Frontend: React (or Next.js) with Tailwind CSS
