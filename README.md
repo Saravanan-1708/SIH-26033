@@ -26,21 +26,21 @@ Benefits:
 • Reduced supply chain inefficiencies.
 
 ## Proposed Solution
-1.<b>My solution<\b>: benefit for farmers is a website where buyers and farmers agree on a deal before the crop is even grown.
-2.<b>how we address this<\b>:
+1.My solution: benefit for farmers is a website where buyers and farmers agree on a deal before the crop is even grown.
+2.how we address this:
 Big buyers like hostels, hospitals, canteens, hotels and food companies post what they need. For example: 50 quintal onions, grade A, needed in January, at this price.
 Farmers or FPOs (Farmer Producer Organizations) log in, see the demands for their area and crop, and commit to supply.
 If one farmer can’t fill the whole order, a few farmers can join together and supply it as a group.
 A digital contract is made with the quantity, quality, price and delivery date.
 The buyer pays a small advance (10 to 20%) into a safe escrow account. The rest is paid after delivery and quality check.
-3. <b>Innovation and uniqueness of the solution<\b>:
+3. Innovation and uniqueness of the solutio:
 Farmers deal directly with buyers, so agents and wholesalers are not needed.
 The price is fixed before harvest, so farmers are not forced to sell cheap.
 The advance payment gives farmers some security and money to start farming.
 Small farmers can reach big buyers by working as a group.
 
 ## Technical Approach
-1.<b>Technologies we will use<\b>:
+1.Technologies we will use:
 Frontend: React (or Next.js) with Tailwind CSS
 Backend: Node.js with Express (or Django)
 Database: PostgreSQL
@@ -51,7 +51,7 @@ Payments: UPI and Razorpay escrow
 Alerts: SMS and email
 Hosting: AWS or Render
 2. Methodology :
-<b>Flow chart<\b>:
+Flow chart:
   Buyer registers on the website
                       |
                       v
@@ -101,9 +101,9 @@ Hosting: AWS or Render
                               Ratings given to both sides
 
 ## Feasibility and Viability
-1. <b>Analysis of the feasibility of the idea<\b>:
+1. Analysis of the feasibility of the idea:
 Technical feasibility: The portal needs only normal web technology (React, Node.js, PostgreSQL). Mandi price data from Agmarknet and eNAM is free and open. Login, eSign and payments can use ready-made services like DigiLocker, eSign and Razorpay, so we do not need to build them from scratch.
-2. <b>Potential challenges and risks<\b>:
+2. Potential challenges and risks:
 Contract breaking: A farmer or buyer may not follow the contract.
 Low digital literacy: Many farmers may not know how to use a website.
 Crop failure: Weather, pests or disease may reduce the harvest.
@@ -112,7 +112,7 @@ Slow buyer adoption: Buyers may not join in the beginning.
 Unfair prices: A buyer may offer a very low price.
 Lack of trust: Farmers may not trust a new online system.
 Poor internet: Network connectivity in villages can be weak.
-3.<b> Strategies for overcoming these challenges<\b>:
+3. Strategies for overcoming these challenges:
  Contract breaking: Keep the advance payment in escrow, give ratings to both sides, and write penalty rules in the contract.
 Low digital literacy: Provide simple pages in regional languages, and help from CSC and FPO operators.
 Crop failure: Allow partial delivery in the contract, and link crop insurance through PMFBY.
@@ -122,19 +122,19 @@ Unfair prices: Compare every offer with the mandi price and MSP, and ask the buy
 
 
 ## Impact and Benefits
-1. <b>Potential impact on the target audience<\b>:
+1. Potential impact on the target audience:
   Farmers: They know their buyer and price before harvest, so there is less risk and better income.
 Buyers: Regular supply of the quality they need, at a lower cost than buying through many middlemen.
 FPOs and CSC centres: A new role in organising farmers and helping them use the platform.
 Consumers: Fewer sudden price jumps.
-2.<b> Benefits of the solution (social, economic, environmental, etc.)<\b>:
+2. Benefits of the solution (social, economic, environmental, etc.):
 Economic: Farmers earn more per crop, and buyers spend less on procurement.
 Social: Small farmers get access to big buyers and depend less on agents and moneylenders.
 Environmental: When farmers grow what is actually needed, less produce is wasted.
 
 
 ## Research and References
-1.<b> Details / Links of the reference and research work <\b>:
+1. Details / Links of the reference and research work :
 Model Contract Farming Act, 2018 (NITI Aayog)
 Agmarknet and eNAM websites for mandi prices
 Ministry of Agriculture and Farmers Welfare: FPO scheme
