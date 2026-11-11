@@ -27,13 +27,16 @@ Benefits:
 
 ## Proposed Solution
 ```
-1.My solution: benefit for farmers is a website where buyers and farmers agree on a deal before the crop is even grown.
+1.My solution:
+Benefit for farmers is a website where buyers and farmers agree on a deal before the crop is even grown.
+
 2.how we address this:
-Big buyers like hostels, hospitals, canteens, hotels and food companies post what they need. For example: 50 quintal onions, grade A, needed in January, at this price.
+   Big buyers like hostels, hospitals, canteens, hotels and food companies post what they need. For example: 50 quintal onions, grade A, needed in January, at this price.
 Farmers or FPOs (Farmer Producer Organizations) log in, see the demands for their area and crop, and commit to supply.
 If one farmer can’t fill the whole order, a few farmers can join together and supply it as a group.
 A digital contract is made with the quantity, quality, price and delivery date.
 The buyer pays a small advance (10 to 20%) into a safe escrow account. The rest is paid after delivery and quality check.
+ 
 3. Innovation and uniqueness of the solutio:
  Farmers deal directly with buyers, so agents and wholesalers are not needed.
 
