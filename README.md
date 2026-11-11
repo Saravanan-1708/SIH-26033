@@ -41,6 +41,7 @@ The advance payment gives farmers some security and money to start farming.
 Small farmers can reach big buyers by working as a group.
 ```
 ## Technical Approach
+```
 1.Technologies we will use:
 Frontend: React (or Next.js) with Tailwind CSS
 Backend: Node.js with Express (or Django)
@@ -51,6 +52,8 @@ Contracts: auto-generated PDF with eSign
 Payments: UPI and Razorpay escrow
 Alerts: SMS and email
 Hosting: AWS or Render
+```
+```
 2. Methodology :
 Flow chart:
   Buyer registers on the website
@@ -100,8 +103,10 @@ Flow chart:
                                         |
                                         v
                               Ratings given to both sides
+```
 
 ## Feasibility and Viability
+```
 1. Analysis of the feasibility of the idea:
 Technical feasibility: The portal needs only normal web technology (React, Node.js, PostgreSQL). Mandi price data from Agmarknet and eNAM is free and open. Login, eSign and payments can use ready-made services like DigiLocker, eSign and Razorpay, so we do not need to build them from scratch.
 2. Potential challenges and risks:
@@ -120,9 +125,10 @@ Crop failure: Allow partial delivery in the contract, and link crop insurance th
 Quality disputes: Use AGMARK grade standards in the contract, and a third-party inspector for disputes.
 Slow buyer adoption: Start with institutions that already buy in bulk, such as hostels, hospitals and mid-day meal schemes.
 Unfair prices: Compare every offer with the mandi price and MSP, and ask the buyer to revise low offers.
-
+```
 
 ## Impact and Benefits
+```
 1. Potential impact on the target audience:
   Farmers: They know their buyer and price before harvest, so there is less risk and better income.
 Buyers: Regular supply of the quality they need, at a lower cost than buying through many middlemen.
@@ -132,11 +138,13 @@ Consumers: Fewer sudden price jumps.
 Economic: Farmers earn more per crop, and buyers spend less on procurement.
 Social: Small farmers get access to big buyers and depend less on agents and moneylenders.
 Environmental: When farmers grow what is actually needed, less produce is wasted.
-
+```
 
 ## Research and References
+```
 1. Details / Links of the reference and research work :
 Model Contract Farming Act, 2018 (NITI Aayog)
 Agmarknet and eNAM websites for mandi prices
 Ministry of Agriculture and Farmers Welfare: FPO scheme
 NABARD and NITI Aayog reports on agricultural marketing
+```
